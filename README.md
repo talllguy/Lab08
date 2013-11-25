@@ -26,3 +26,7 @@ Write a C++ program that will perform three functions based off of an input of 1
 - Return result
 ### Smallest
 - Opposite of largest## A New Post
+
+## Example Output
+![output with no errors](/output/output_noerrors.png)
+![output with error checks](/output/output_error_check.png)
