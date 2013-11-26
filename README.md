@@ -8,24 +8,28 @@ Write a C++ program that will perform three functions based off of an input of 1
 
 ## Algorithm
 - Declare three function prototypes(float)
+
 ### Main function
 - Declare array numbers[10]
 - Do input checks on the input
 - Set variables equal to called functions
 - Output variables
+
 ###Largest number in array
 - `d = 0`
 - `for (j=1; j < 10; j++)`
 - `If data[j] > data[d]`
 - `D = j`
 - `return d`
+
 ### Average
 - For loop
 - Sum of all elements
 - Divide by number
 - Return result
+
 ### Smallest
-- Opposite of largest## A New Post
+- Opposite of largest
 
 ## Example Output
 ![output with no errors](/output/output_noerrors.png)
